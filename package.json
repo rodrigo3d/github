@@ -1,0 +1,32 @@
+{
+  "name": "rdg3d-jekyll-post-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to register new posts on rodrigo3d",
+  "scripts": {
+    "start": "./lib/rdg3d-jekyll-post-cli.js",
+    "nodemon": "nodemon lib/rdg3d-jekyll-post-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodrigo3d/rdg3d-jekyll-post-cli.git"
+  },
+  "keywords": [
+    "rodrigo3d",
+    "cli"
+  ],
+  "author": "Rodrigo Ribeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodrigo3d/rdg3d-jekyll-post-cli/issues"
+  },
+  "homepage": "https://github.com/rodrigo3d/rdg3d-jekyll-post-cli",
+  "preferGlobal": true,
+  "bin": {
+    "freetime": "lib/rdg3d-jekyll-post-cli.js"
+  },
+  "dependencies": {
+    "inquirer": "^0.11.0",
+    "moment": "^2.10.6",
+    "slug": "^0.9.1"
+  }
+}
