@@ -48,6 +48,13 @@ freetime
 
 > Example: http://speackerdeck.com/user/talk-name
 
+**Exemplo 1:** Publicando seu módulo no NPM
+
+> Link: https://www.youtube.com/watch?v=S4iQdLMSrVY
+
+**Exemplo 2:** Como testar módulos sem publicar no NPM? Usando o NPM Link
+> Link: https://www.youtube.com/watch?v=Vlm2ImU1VpY
+
 ## License
 
 [MIT](LICENSE.md) &copy; Free-time
