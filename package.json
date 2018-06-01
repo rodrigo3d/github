@@ -4,7 +4,8 @@
   "description": "CLI tool to register new posts on rodrigo3d",
   "scripts": {
     "start": "./lib/rdg3d-jekyll-post-cli.js",
-    "nodemon": "nodemon lib/rdg3d-jekyll-post-cli.js"
+    "nodemon": "nodemon lib/rdg3d-jekyll-post-cli.js",
+    "push": "git add . && git commit -m \"[Atualização Automática]\" && git push -u origin master"
   },
   "repository": {
     "type": "git",

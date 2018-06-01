@@ -1,5 +1,18 @@
-node_modules/
-__MACOSX/
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# production
+/_posts
+/_projects
+
+# misc
 .DS_Store
-npm-debug.log
-_posts
+*.conf
+desktop.ini
+sftp-config.json
+
+*.log*
+
+!blank/.gitkeep
