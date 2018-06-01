@@ -1,5 +1,14 @@
+# folders
+_posts
+_projects
+
+# misc
 .editorconfig
 .gitignore
 .jshintrc
-_posts
-_projects
+desktop.ini
+
+
+
+
+
